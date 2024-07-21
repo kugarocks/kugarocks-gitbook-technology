@@ -1,6 +1,5 @@
 # Table of contents
 
-## 👨‍💻 开发环境 <a href="#dev-env" id="dev-env"></a>
-
-* [🖥️ macOS env](README.md)
-* [📋 zshrc](dev-env/zshrc.md)
+* [👨‍💻 开发环境](README.md)
+  * [🖥️ macOS env](kai-fa-huan-jing/macos-env.md)
+  * [📋 zshrc](kai-fa-huan-jing/zshrc.md)
