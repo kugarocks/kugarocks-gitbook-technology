@@ -2,7 +2,7 @@
 description: 有个朋友想在大学转专业，所以爬了一下学校官网转专业相关的信息。
 ---
 
-# 让 ChatGPT 写爬虫
+# 🔎 让 ChatGPT 写爬虫
 
 ## ChatGPT Conversation
 
