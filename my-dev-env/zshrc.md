@@ -1,7 +1,3 @@
----
-description: My zshrc file
----
-
 # 📋 zshrc
 
 ```
