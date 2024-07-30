@@ -3,11 +3,11 @@
 ## ChatGPT Conversation
 
 * 🤡：帮我写一个 Python 爬虫脚本，输入 URL 和关键字
-* 🤖：这是一个使用 Beautiful Soup 的代码例子（无法抓取 JS 动态内容）
+* 🤖：这是一个使用 Beautiful Soup 的代码例子
 * 🤡：有什么方法可以抓取 JS 动态生成的内容
-* 🤖：可以使用 Selenium、Scrapy + Splash、Playwright
+* 🤖：可以使用 Selenium、Scrapy + Splash
 * 🤡：使用 Scrapy + Splash 的方法
-* 🤖：以下是一个完整的 Scrapy 爬虫脚本示例（配置还写代码里面了）
+* 🤖：以下是一个完整的 Scrapy 爬虫脚本示例
 
 跑了一下，发现日志全打在屏幕上，于是去官网看了一下配置，发现可以指定日志文件、抓取深度、优先级等等。再问一下 GPT 让他给一些配置的例子和注释，最后整理优化一下，得出了下面最终的输入。
 
