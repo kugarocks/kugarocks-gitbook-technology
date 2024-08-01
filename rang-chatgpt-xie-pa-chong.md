@@ -2,7 +2,7 @@
 
 ## ChatGPT Conversation
 
-* 🤡：帮我写一个 Python 爬虫脚本，输入 URL 和关键字
+* 🤡：帮我写一个 Python 爬虫脚本，输入 URL
 * 🤖：这是一个使用 Beautiful Soup 的代码例子
 * 🤡：有什么方法可以抓取 JS 动态生成的内容
 * 🤖：可以使用 Selenium、Scrapy + Splash
